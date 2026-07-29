@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arunkumar M S 👋
 
-<!--
-**arunkumarms26/arunkumarms26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer
 
-Here are some ideas to get you started:
+Mechanical Engineer transitioning into Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- Python
+- Object-Oriented Programming (OOP)
+- Streamlit
+- Generative AI
+
+### 🛠️ Skills
+- Python
+- GitHub
+- VS Code
+
+### 📫 Contact
+- 📧 Email: arunkumarms413@gmail.com
+- 💻 GitHub: github.com/arunkumarms26
