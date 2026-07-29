@@ -3,6 +3,7 @@
 ## Python Developer
 
 Mechanical Engineer transitioning into Software Development.
+Passionate about building Python applications and continuously improving my programming skills.
 
 ### 🚀 Currently Learning
 - Python
@@ -17,4 +18,4 @@ Mechanical Engineer transitioning into Software Development.
 
 ### 📫 Contact
 - 📧 Email: arunkumarms413@gmail.com
-- 💻 GitHub: github.com/arunkumarms26
+
