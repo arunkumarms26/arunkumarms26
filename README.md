@@ -11,8 +11,8 @@ Mechanical Engineer transitioning into Software Development.
 - Generative AI
 
 ### 🛠️ Skills
-- Python
-- GitHub
+- Python 
+- File Handling
 - VS Code
 
 ### 📫 Contact
