@@ -3,7 +3,7 @@
 ## Python Developer
 
 Mechanical Engineer transitioning into Software Development.
-Passionate about building Python applications and continuously improving my programming skills.
+ Passionate about building Python applications and continuously learning new technologies.
 
 ### 🚀 Currently Learning
 - Python
