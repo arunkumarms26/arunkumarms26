@@ -15,6 +15,9 @@ Mechanical Engineer transitioning into Software Development.
 - Python 
 - File Handling
 - VS Code
+- Git
+- GitHub
+
 
 ### 📫 Contact
 - 📧 Email: arunkumarms413@gmail.com
