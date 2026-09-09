@@ -1,24 +1,18 @@
-# Hi, I'm Arunkumar M S 👋
+# Hi, I'm Arunkumar 👋
 
-## Python Developer
+Aspiring Python Developer building my skills one project at a time.
 
-Mechanical Engineer transitioning into Software Development.
- Passionate about building Python applications and continuously learning new technologies.
+- 🐍 Comfortable with core **Python** — file handling, exception handling, CRUD logic, OOP basics
+- 🎨 Building interactive apps with **Streamlit**
+- 📊 Currently learning **NumPy**, **Matplotlib**, and **Seaborn** for data analysis & visualization
+- 🧠 Currently learning **Machine Learning** fundamentals
+- 🤖 Currently exploring **Generative AI** (LLM fundamentals & prompt engineering)
+- 🎓 B.E. Mechanical Engineering @ Dayananda Sagar College of Engineering (2023–2026)
+- 📫 Reach me at **arunkumarms413@gmail.com**
+---
 
-### 🚀 Currently Learning
-- Python
-- Object-Oriented Programming (OOP)
-- Streamlit
-- Generative AI
+### 📌 Currently learning
+NumPy · Matplotlib · Seaborn · Machine Learning · Generative AI (LLMs & Prompt Engineering)
 
-### 🛠️ Skills
-- Python 
-- File Handling
-- VS Code
-- Git
-- GitHub
-
-
-### 📫 Contact
-- 📧 Email: arunkumarms413@gmail.com
+*Open to Python Developer roles and internships where I can keep growing into AI-driven development.*
 
